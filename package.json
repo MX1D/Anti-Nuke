@@ -7,7 +7,7 @@
     "url": "git+https://github.com/17teen/Discord-Bladee-Server-Anti-Nuker.git"
   },
   "scripts": {
-    "start": "concurrently \"node bladee.js\" \"node music\\index.js\""
+    "start": "concurrently \"node bladee.js\""
   },
   "author": "MX1D",
   "license": "UNLICENSED",
